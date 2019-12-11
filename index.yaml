@@ -1,0 +1,23 @@
+apiVersion: v1
+entries:
+  app1:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2019-12-11T11:08:14.915714-08:00"
+    description: A Helm chart for Kubernetes
+    digest: 63c936045e84151a4271326149dcdd5a8d710f220ae444f9f5cfc1671d38f764
+    name: app1
+    urls:
+    - https://github.com/sparelabs/spare-helm-charts/releases/download/app1-0.1.0/app1-0.1.0.tgz
+    version: 0.1.0
+  app2:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2019-12-11T11:08:15.115962-08:00"
+    description: A Helm chart for Kubernetes
+    digest: 626cb3f309a11635af90f6b93b3994344af32dcd207e01359da74aab4b1ecfc1
+    name: app2
+    urls:
+    - https://github.com/sparelabs/spare-helm-charts/releases/download/app2-0.1.0/app2-0.1.0.tgz
+    version: 0.1.0
+generated: "2019-12-11T11:08:14.484651-08:00"
